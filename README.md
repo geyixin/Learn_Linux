@@ -23,6 +23,7 @@
 * vi filename  如果filename文本文件存在，则打开，不存在，则创建名为filename文本文件，并打开，按下 i 键即可进入编辑模式，完成编辑后，可以按 esc 键退出编辑模式
 * cat filename 打开filename文件
 * cat -b filename 打开filename文件，并显示行号
+* cp filename copyfile 复制文件
 ## 系统
 * shutdown -h now 关闭系统
 * shutdown -r now 重启
