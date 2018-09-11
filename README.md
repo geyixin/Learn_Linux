@@ -19,6 +19,7 @@
 * ls -l 显示文件和目录的详细资料 
 * ls -a 显示隐藏文件 
 * rm -f file1 删除一个叫做 'file1' 的文件' 
+* ls *.doc 显示所有以 .doc 结尾的文件
 ## 系统
 * shutdown -h now 关闭系统
 * shutdown -r now 重启
