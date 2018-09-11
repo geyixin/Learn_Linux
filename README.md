@@ -13,6 +13,7 @@
 * mkdir dir1 创建一个叫做 'dir1' 的目录' 
 * rm -rf dir1 删除一个叫做 'dir1' 的目录并同时删除其内容 
 * mv dir1 new_dir 重命名/移动 一个目录 
+* ls /usr/local  遍历 /usr/local 目录下的文件
 ## 文件
 * ls 查看目录中的文件 
 * ls -F 查看目录中的文件 
