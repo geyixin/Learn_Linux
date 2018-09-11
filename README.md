@@ -20,8 +20,7 @@
 * ls -a 显示隐藏文件 
 * rm -f file1 删除一个叫做 'file1' 的文件' 
 * ls *.doc 显示所有以 .doc 结尾的文件
-* vi filename 
-** 如果filename文本文件存在，则打开，不存在，则创建名为filename文本文件，并打开，按下 i 键即可进入编辑模式，完成编辑后，可以按 esc 键退出编辑模式
+* vi filename  如果filename文本文件存在，则打开，不存在，则创建名为filename文本文件，并打开，按下 i 键即可进入编辑模式，完成编辑后，可以按 esc 键退出编辑模式
 ## 系统
 * shutdown -h now 关闭系统
 * shutdown -r now 重启
