@@ -30,3 +30,5 @@
 * shutdown -h now 关闭系统
 * shutdown -r now 重启
 * reboot 重启
+## su 和 sudo 区别
+* [详情](https://www.cnblogs.com/slgkaifa/p/6852884.html)
