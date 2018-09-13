@@ -26,6 +26,7 @@
 * cat filename 打开filename文件
 * cat -b filename 打开filename文件，并显示行号
 * cp filename copyfile 复制文件
+* touch 两个功能：一是用于把已存在文件的时间标签更新为系统当前的时间（默认方式），它们的数据将原封不动地保留下来；二是用来创建新的空文件。
 ## 系统
 * shutdown -h now 关闭系统
 * shutdown -r now 重启
