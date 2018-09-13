@@ -31,5 +31,6 @@
 * shutdown -h now 关闭系统
 * shutdown -r now 重启
 * reboot 重启
+* addHack XX 把文件xx放进flash，断电也可加载
 ## su 和 sudo 区别
 * [详情](https://www.cnblogs.com/slgkaifa/p/6852884.html)
